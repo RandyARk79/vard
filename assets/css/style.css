@@ -681,8 +681,7 @@ section {
 .core-line {
 font-weight: 600;
 font-size: 22px;
-padding: auto;
-margin-right: 6px;
+
 }
 
 
@@ -1000,15 +999,25 @@ margin-right: 6px;
   border-radius: 5px;
   background: #fff;
   transition: 0.5s;
+  height: 250px;
 }
 .team .member .pic {
   overflow: hidden;
   width: 180px;
   border-radius: 50%;
+  height: 150px;
 }
 .team .member .pic img {
   transition: ease-in-out 0.3s;
 }
+
+.Vard-mem{
+  width: 150px;
+  height: 290p;
+
+}
+
+
 .team .member:hover {
   transform: translateY(-10px);
 }
@@ -1078,6 +1087,11 @@ margin-right: 6px;
 --------------------------------------------------------------*/
 .pricing .row {
   padding-top: 40px;
+  overflow: hidden;
+}
+
+.col-xl-3{
+  padding: 10px 
 }
 .pricing .box {
   padding: 60px 40px;
