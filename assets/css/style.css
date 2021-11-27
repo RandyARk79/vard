@@ -116,7 +116,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background-color: #1281c2;
+  background-color: #213947;
 }
 
 #header.header-scrolled,
@@ -359,7 +359,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #d91cc6;
+  background: #0cd7f1;
 }
 #hero .container {
   padding-top: 72px;
@@ -1014,6 +1014,7 @@ font-size: 22px;
 .Vard-mem{
   width: 150px;
   height: 290p;
+  max-height: 150px;
 
 }
 
@@ -1638,3 +1639,6 @@ font-size: 22px;
     padding-top: 4px;
   }
 }
+
+
+/* ------------------Gallary---------------------- */
