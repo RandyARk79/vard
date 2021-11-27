@@ -116,7 +116,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background-color: #213947;
+  background-color: #2d6f96;
 }
 
 #header.header-scrolled,
@@ -359,7 +359,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #0cd7f1;
+  background: #4ba5b1;
 }
 #hero .container {
   padding-top: 72px;
@@ -1154,7 +1154,7 @@ font-size: 22px;
   display: inline-block;
   padding: 12px 35px;
   border-radius: 50px;
-  color: #47b2e4;
+  color: #61a4c4;
   transition: none;
   font-size: 16px;
   font-weight: 500;
