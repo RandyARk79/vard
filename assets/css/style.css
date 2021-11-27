@@ -1000,8 +1000,17 @@ font-size: 22px;
   border-radius: 5px;
   background: #fff;
   transition: 0.5s;
-  height: 250px;
+  height: auto;
+
 }
+
+.t-mcard {
+
+  padding-top: 10px;
+
+}
+
+
 .team .member .pic {
   overflow: hidden;
   width: 180px;
@@ -1643,3 +1652,18 @@ font-size: 22px;
 
 
 /* ------------------Gallary---------------------- */
+.avatar {
+  /* Rounded border */
+  border-radius: 50%;
+  height: 64px;
+  width: 64px;
+}
+
+.avatar__image {
+  /* Rounded border */
+  border-radius: 50%;
+
+  /* Take full size */
+  height: 100%;
+  width: 100%;
+}
